@@ -32,4 +32,4 @@ The analysis is based on the **Students Performance in Exams** dataset. It inclu
 ## 📌 Key Findings
 
 *   **Exploratory Data Analysis:** Factors such as completing a test preparation course, having standard lunch, and higher parental education levels are strongly correlated with higher overall test scores. 
-*   **Modeling:*
+*   **Modeling:** The Linear Regression model successfully identifies the relationship between these categorical background variables and the students' final math scores, highlighting the significant impact of socioeconomic and preparation factors on academic performance.
